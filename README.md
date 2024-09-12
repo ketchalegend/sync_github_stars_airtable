@@ -17,7 +17,7 @@ This Python script allows you to sync your starred GitHub repositories to an Air
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/github-starred-airtable-sync.git
+git clone https://github.com/ketchalegend/sync_github_stars_airtable.git
 cd github-starred-airtable-sync
 ```
 
