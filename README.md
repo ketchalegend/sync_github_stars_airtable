@@ -100,10 +100,6 @@ Total repositories processed: 25
 
 This project is licensed under the MIT License. Feel free to use it as you see fit.
 
-````
-This markdown provides a comprehensive guide covering the script's usage, setup, and features.
-````
-
 
 
 
